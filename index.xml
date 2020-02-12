@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="setlist.css"?>
+<songs>
+<heading>Set List</heading>
+	<song id="#head">
+		<name>Song</name>
+		<artist>Artist</artist>
+		<genre>Genre</genre>
+		<year>Year</year>
+	</song>
+	<song>
+		<name>Ocean Man</name>
+		<artist>Ween</artist>
+		<genre>Alt Rock</genre>
+		<year>1997</year>
+	</song>
+	<song>
+		<name>Because I got high</name>
+		<artist>Shaggy</artist>
+		<genre>Hip-Hop</genre>
+		<year>2000</year>
+	</song>
+	<song>
+		<name>Fruit Salad</name>
+		<artist>Wiggles</artist>
+		<genre>Children's Music</genre>
+		<year>1994</year>
+	</song>
+	<song>
+		<name>You Say Run</name>
+		<artist>Yuki Hiyashi</artist>
+		<genre>Anime</genre>
+		<year>2016</year>
+	</song>
+	<song>
+		<name>Two Princes</name>
+		<artist>Spin Doctors</artist>
+		<genre>Rock</genre>
+		<year>1991</year>
+	</song>
+	<song>
+		<name>1 Thot 2 Thot</name>
+		<artist>Yung Gravy</artist>
+		<genre>Rap</genre>
+		<year>2018</year>
+	</song>
+	<song>
+		<name>Your Man</name>
+		<artist>Josh Turner</artist>
+		<genre>Country</genre>
+		<year>2005</year>
+	</song>
+	<song>
+		<name>Goofy Goober Rock</name>
+		<artist>Tom Rothrock</artist>
+		<genre>Rock</genre>
+		<year>2004</year>
+	</song>
+	<song>
+		<name>Sweden</name>
+		<artist>C418</artist>
+		<genre>Gaming</genre>
+		<year>2011</year>
+	</song>
+	<song>
+		<name>Tubthumping</name>
+		<artist>Chumbawamba</artist>
+		<genre>Rock</genre>
+		<year>1997</year>
+	</song>
+</songs>
